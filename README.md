@@ -1,2 +1,3 @@
 # brainfuck.py
-HAYO
+
+failed attempt to create brainfuck interpreter in python
